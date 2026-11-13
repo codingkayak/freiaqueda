@@ -8,3 +8,6 @@ a { color: var(--destaque); }
 .data, footer { color: var(--suave); font-size: .9em; }
 nav { margin: 0 0 24px; display: flex; gap: 16px; flex-wrap: wrap; }
 hr { border: 0; border-top: 1px solid #333; margin: 40px 0; }
+.yt { border: 2px solid #ff0033; border-radius: 12px; padding: 4px 20px 12px; margin: 28px 0; }
+.yt h2 { color: #ff4d6a; }
+.links { font-weight: 600; font-size: 1.05em; }
